@@ -1,6 +1,6 @@
 {
   "name": "node-bcsystem-client",
-  "version": "0.0.1-0001",
+  "version": "0.0.1-0002",
   "description": "Node.js based broadcasting system. Client.",
   "main": "index.js",
   "scripts": {
