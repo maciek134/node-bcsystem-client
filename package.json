@@ -4,12 +4,16 @@
   "description": "Node.js based broadcasting system. Client.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "http://github.com/maciek134/node-bcsystem-client.git"
   },
+  "bundleDependencies": [
+  	"sldmixer"
+  ],
   "keywords": [
     "broadcast",
     "broadcasting",
