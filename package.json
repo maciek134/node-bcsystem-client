@@ -1,0 +1,20 @@
+{
+  "name": "node-bcsystem-client",
+  "version": "0.0.1-0001",
+  "description": "Node.js based broadcasting system. Client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/maciek134/node-bcsystem-client.git"
+  },
+  "keywords": [
+    "broadcast",
+    "broadcasting",
+    "system"
+  ],
+  "author": "Maciej Sopyło <maciek134@gmail.com>",
+  "license": "MIT"
+}
