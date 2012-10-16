@@ -11,9 +11,6 @@
     "type": "git",
     "url": "http://github.com/maciek134/node-bcsystem-client.git"
   },
-  "bundleDependencies": [
-  	"sldmixer"
-  ],
   "keywords": [
     "broadcast",
     "broadcasting",
